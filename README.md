@@ -1,7 +1,7 @@
 
 ```
-> git clone https://github.com/southernwood/apple-coding.git
-> cd apple-coding
+> git clone https://github.com/southernwood/Netflix-code.git
+> cd Netflix-code
 > npm install
 > npm start
 
